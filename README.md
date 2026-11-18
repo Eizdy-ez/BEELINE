@@ -11,8 +11,8 @@ browser from the static files under `game/` — no build step, no network reques
 every line of the game is in `game/src/`, drawn and sounded live (canvas 2D and WebAudio).
 
 ![make.fun bounty](https://make.fun/badge/best-game-01.svg)
-![make.fun rank](https://make.fun/badge/best-game-01/YOUR_GITHUB_OWNER/YOUR_REPO_NAME/rank.svg)
-![make.fun reward](https://make.fun/badge/best-game-01/YOUR_GITHUB_OWNER/YOUR_REPO_NAME/reward.svg)
+![make.fun rank](https://make.fun/badge/best-game-01/Eizdy-ez/BEELINE/rank.svg)
+![make.fun reward](https://make.fun/badge/best-game-01/Eizdy-ez/BEELINE/reward.svg)
 
 ## Play
 
